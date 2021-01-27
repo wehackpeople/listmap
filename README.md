@@ -1,8 +1,12 @@
 # ListMap
 Created by: Shane Young/x90skysn3k
+Updated for Python3 by: Brent White/ @brentwdesign
 
 # Description
 Listmap was made to save time when parsing through nmap output. Listmap creates lists of IP's based on the ports you specify. Listmap can aid in creating lists of IP adresses with open ports that can be referenced by other tools. Listmap was created to save time, basically saving your fingers from typing so many 'cat' & 'cut' statements through your gnmap outputs.
+
+# Installation
+python3 -m pip install argcomplete
 
 # Usage
 Command: python listmap.py -h
